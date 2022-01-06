@@ -1,0 +1,338 @@
+,ID,name,platform,category,tanggal,total_zakat,status,metode_pembayaran
+0,3736,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-08-02 16:23:28,250000.0,settlement,BRI
+1,3737,Eli Laili Yanah,Web,Zakat Penghasilan,2021-08-04 13:28:52,200000.0,settlement,bank_transfer
+2,3738,Teguh utomo,WEB,Zakat Penghasilan,2021-08-06 09:07:44,500000.0,settlement,BCA - 1393040002
+3,3739,Dini Fitriani,WEB,Zakat Penghasilan,2021-08-06 09:21:27,250000.0,settlement,Mandiri - 1320505050519
+4,3740,Anna Octavia,WEB,Zakat Penghasilan,2021-08-06 10:05:10,120000.0,settlement,BCA - 1393040002
+5,3742,Nining,WEB,Zakat Penghasilan,2021-08-06 12:13:45,500000.0,settlement,Muamalat - 4080200000
+6,3743,didi,WEB,Zakat Penghasilan,2021-08-06 14:59:45,700000.0,settlement,BCA - 1393040002
+7,3744,Diliana,WEB,Zakat Penghasilan,2021-08-07 09:51:30,1500000.0,settlement,Mandiri - 1320505050519
+8,3745,Tika,Android,Zakat Penghasilan,2021-08-08 17:27:13,50000.0,settlement,bank_transfer
+9,3746,chentya endah,Android,Zakat Penghasilan,2021-08-10 20:47:04,175000.0,settlement,MANDIRI
+10,3747,Heriyadi,WEB,Zakat Penghasilan,2021-08-11 07:51:10,150000.0,settlement,BCA - 1393040002
+11,3748,Frida ferdani putri,Web Mobile,Zakat Penghasilan,2021-08-11 18:48:33,500000.0,settlement,MANDIRI
+12,3749,shifa,WEB,Zakat Penghasilan,2021-08-12 08:14:04,194874.0,settlement,BCA - 1393040002
+13,3752,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-08-12 18:43:39,200000.0,settlement,MANDIRI
+14,3753,Idzni,Android,Zakat Penghasilan,2021-08-13 07:54:56,200000.0,settlement,bank_transfer
+15,3757,Aulia M Rahman,WEB,Zakat Penghasilan,2021-08-17 11:17:21,750000.0,settlement,Mandiri - 1320006531140
+16,3758,Fadillah,WEB,Zakat Penghasilan,2021-08-20 08:47:39,150000.0,settlement,BRI - 013701000379303
+17,3759,astrianirika33,WEB,Zakat Penghasilan,2021-08-20 14:56:06,100000.0,settlement,BCA - 1393040002
+18,3760,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-08-25 16:03:27,1500000.0,settlement,Mandiri - 1320006531140
+19,3775,yenny,WEB,Zakat Penghasilan,2021-08-27 13:23:08,300000.0,settlement,BCA - 1393004952
+20,3776,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-08-27 19:11:21,326600.0,settlement,BNI
+21,3777,derby fioricy,WEB,Zakat Penghasilan,2021-08-28 08:50:41,405000.0,settlement,BCA - 1393040002
+22,3781,Agisha Riyani Nurhalimah,Web Mobile,Zakat Penghasilan,2021-08-28 10:03:12,145000.0,settlement,bank_transfer
+23,3782,Ardita Widyasari,WEB,Zakat Penghasilan,2021-08-28 10:18:53,165000.0,settlement,BCA - 1393040002
+24,3783,Yuhana robina,WEB,Zakat Penghasilan,2021-08-31 11:48:00,2000000.0,settlement,BCA - 1393004952
+25,3784,Helena Shinta,WEB,Zakat Penghasilan,2021-08-31 14:31:25,500000.0,settlement,Mandiri - 1010012312318
+26,2996,Eli Laili Yanah,Web,Zakat Penghasilan,2021-04-01 10:37:22,185000.0,settlement,bank_transfer
+27,2997,Muhamad Akbar Mulyono,PWA,Zakat Penghasilan,2021-04-01 17:21:18,200000.0,settlement,echannel
+28,2998,Fitri Nilasari,PWA,Zakat Penghasilan,2021-04-02 19:17:37,160000.0,settlement,bank_transfer
+29,3002,Hamba Allah,PWA,Zakat Penghasilan,2021-04-05 08:30:50,50000.0,PAID,DANA
+30,3003,Rifqi Amirullah,Web,Zakat Penghasilan,2021-04-05 14:24:03,150000.0,settlement,bank_transfer
+31,3008,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-04-07 11:29:09,300000.0,COMPLETED,OVO
+32,3039,Hamba Allah,Android,Zakat Penghasilan,2021-04-16 12:35:24,100000.0,settlement,bank_transfer
+33,3046,Karinda Wardani Puspitasari,Web,Zakat Penghasilan,2021-04-19 04:30:50,500000.0,settlement,BNI
+34,3050,ARIeF,Web,Zakat Emas,2021-04-22 15:18:39,100000.0,settlement,MANDIRI
+35,3051,Mesy Faridah Hendiyani,Web,Zakat Penghasilan,2021-04-23 09:02:14,300000.0,settlement,BNI
+36,3052,Dina Olivia,Web,Zakat Penghasilan,2021-04-23 11:59:46,703750.0,settlement,MANDIRI
+37,3054,Oki,Web Mobile,Zakat Penghasilan,2021-04-29 02:53:35,362500.0,settlement,MANDIRI
+38,3055,Hamba Allah,Android,Zakat Penghasilan,2021-04-29 10:04:00,250000.0,settlement,BRI
+39,3057,Murni,Web Mobile,Zakat Penghasilan,2021-04-29 20:29:14,100000.0,settlement,MANDIRI
+40,3063,Fitri Nilasari,Web Mobile,Zakat Penghasilan,2021-04-30 07:40:09,170000.0,settlement,bank_transfer
+41,3064,Dina Olivia,Web Mobile,Zakat Penghasilan,2021-04-30 10:23:27,407500.0,settlement,MANDIRI
+42,4021,Melinda D A,WEB,Zakat Penghasilan,2021-12-01 08:23:02,1200000.0,settlement,Mandiri - 1320006531140
+43,4022,zulfahmi sstv,WEB,Zakat Harta,2021-12-01 08:30:12,250000.0,settlement,BCA - 1393004952
+44,4023,Kukuh,WEB,Zakat Penghasilan,2021-12-01 08:36:19,400000.0,settlement,BCA - 1393040002
+45,4024,Himawan,WEB,Zakat Penghasilan,2021-12-01 14:49:18,60000.0,settlement,Mandiri - 1320020040060
+46,4025,Hilmawan,WEB,Zakat Penghasilan,2021-12-01 14:50:04,19000.0,settlement,Mandiri - 1320020040060
+47,4026,Arief Yulianto,CFD v2,Zakat Penghasilan,2021-12-02 05:37:24,335000.0,settlement,MANDIRI
+48,4027,Arief Yulianto,CFD v2,Zakat Penghasilan,2021-12-02 12:26:17,335000.0,settlement,MANDIRI
+49,4031,Fara Kirana,WEB,Zakat Harta,2021-12-03 08:58:22,500000.0,settlement,BCA - 1393004952
+50,4032,Libonit Poetry Mayangsari,WEB,Zakat Harta,2021-12-03 12:58:54,250000.0,settlement,BCA - 1393040002
+51,4034,Nike Pudjiwati,WEB,Zakat Penghasilan,2021-12-04 14:04:49,100000.0,settlement,BCA - 1393040002
+52,4035,Helena Shinta,WEB,Zakat Penghasilan,2021-12-05 09:24:00,500000.0,settlement,Mandiri - 1010012312318
+53,4036,Ima Gusnandar,WEB,Zakat Harta,2021-12-05 10:43:14,400000.0,settlement,Mandiri - 1320006531140
+54,2772,Nurhalimah Sari Lubis,WEB,Zakat Penghasilan,2021-02-01 10:29:40,40000.0,settlement,BCA - 1393040002
+55,2773,didi,WEB,Zakat Penghasilan,2021-02-01 11:19:53,300000.0,settlement,BCA - 1393040002
+56,2801,Regi Komariah,WEB,Zakat Penghasilan,2021-02-01 17:14:54,100000.0,settlement,BCA - 1393040002
+57,2809,Bpk.Mulyono,WEB,Zakat Penghasilan,2021-02-02 09:38:37,100000.0,settlement,Mandiri - 1320505050519
+58,2810,Novias,WEB,Zakat Penghasilan,2021-02-02 13:50:01,55000.0,settlement,BCA - 1393040002
+59,2811,Erni Pratiwi,WEB,Zakat Penghasilan,2021-02-02 15:23:58,500000.0,settlement,BCA - 1393040002
+60,2812,haribowo lesmono,WEB,Zakat Penghasilan,2021-02-02 16:28:41,500000.0,settlement,BCA - 1393040002
+61,2813,Pak Saeful Rokhman,WEB,Zakat Penghasilan,2021-02-03 09:09:38,300000.0,settlement,BCA - 1393004952
+62,2814,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-02-03 10:51:11,100000.0,settlement,bank_transfer
+63,2815,Rifqi Amirullah,Web,Zakat Penghasilan,2021-02-03 12:22:24,150000.0,settlement,bank_transfer
+64,2817,Tiffani Rizkia Elsyam,Web,Zakat Penghasilan,2021-02-03 16:31:01,81000.0,settlement,bank_transfer
+65,2818,rifky fadila,WEB,Zakat Penghasilan,2021-02-04 16:33:13,150000.0,settlement,Mandiri - 1320006531140
+66,2819,Hamba Allah,WEB,Zakat Penghasilan,2021-02-05 10:21:33,100000.0,settlement,Mandiri Syariah - 7273737377
+67,2821,Zalfaputri,WEB,Zakat Penghasilan,2021-02-05 13:12:16,200000.0,settlement,BCA - 1393040002
+68,2822,Hamba Allah,PWA,Zakat Penghasilan,2021-02-05 14:42:53,100000.0,settlement,echannel
+69,2823,Hayati,WEB,Zakat Penghasilan,2021-02-05 17:38:09,100000.0,settlement,BCA - 1393040002
+70,2824,Muhammad Ghalib A,WEB,Zakat Penghasilan,2021-02-05 21:27:21,250000.0,settlement,Mandiri Syariah - 7273737377
+71,2825,Adry Genialdi,Android,Zakat Penghasilan,2021-02-06 05:24:59,100000.0,settlement,echannel
+72,2826,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-02-06 18:48:21,150000.0,settlement,echannel
+73,2831,Hamba Allah,WEB,Zakat Penghasilan,2021-02-08 16:43:46,165000.0,settlement,Mandiri - 1280006235151
+74,2834,tasnia,WEB,Zakat Penghasilan,2021-02-10 10:02:25,375000.0,settlement,BCA - 1393004952
+75,2835,Dino Yustiawan,WEB,Zakat Penghasilan,2021-02-10 12:45:20,175000.0,settlement,BCA - 1393040002
+76,2836,CV Mekar Jaya Shadik,WEB,Zakat Penghasilan,2021-02-12 09:28:57,80000.0,settlement,BCA - 1393004952
+77,2837,Karinda Wardani Puspitasari,PWA,Zakat Penghasilan,2021-02-12 21:13:33,500000.0,settlement,bank_transfer
+78,2839,muhammad,Web,Zakat Penghasilan,2021-02-13 19:26:23,11625000.0,settlement,echannel
+79,2840,Tari,WEB,Zakat Penghasilan,2021-02-15 08:47:17,1000000.0,settlement,BCA - 1393040002
+80,2841,Septyawati Permata Sari,WEB,Zakat Penghasilan,2021-02-15 08:50:31,50000.0,settlement,BCA - 1393040002
+81,2842,Arka Parandita,WEB,Zakat Penghasilan,2021-02-15 10:41:51,200000.0,settlement,Mandiri - 1320505050519
+82,2843,nadine,WEB,Zakat Penghasilan,2021-02-16 11:55:52,350000.0,settlement,Mandiri - 1320006531140
+83,2844,astrianirika33,WEB,Zakat Penghasilan,2021-02-17 11:18:35,150000.0,settlement,BCA - 1393040002
+84,2846,Amirudin,WEB,Zakat Penghasilan,2021-02-21 12:24:19,100000.0,settlement,Mandiri - 1320020040060
+85,2847,Ramadhany,WEB,Zakat Penghasilan,2021-02-22 08:57:36,293000.0,settlement,BCA - 1393040002
+86,2848,Vicky andriansyah,WEB,Zakat Penghasilan,2021-02-23 08:40:15,3000000.0,settlement,BCA - 1393040002
+87,2849,Fadillah,WEB,Zakat Penghasilan,2021-02-23 09:14:00,150000.0,settlement,BRI - 013701000379303
+88,2850,Toni Setiana,WEB,Zakat Harta,2021-02-23 11:37:41,250000.0,settlement,Mandiri Syariah - 7273737377
+89,2851,Mas Eram Panca,WEB,Zakat Harta,2021-02-24 08:53:22,500000.0,settlement,BCA - 1393004952
+90,2852,Hamba Allah,Web,Zakat Penghasilan,2021-02-24 09:35:26,4.0,PAID,DANA
+91,2855,Resta Agung Susilo,Web,Zakat Penghasilan,2021-02-24 10:10:04,300000.0,settlement,bank_transfer
+92,2856,SUPRIADHI bin Nasir,WEB,Zakat Penghasilan,2021-02-24 13:08:55,500000.0,settlement,BCA - 1393040002
+93,2861,Dino Yustiawan,WEB,Zakat Penghasilan,2021-02-25 08:32:45,175000.0,settlement,BCA - 1393040002
+94,2864,Dicko Ramadhan Alif,WEB,Zakat Penghasilan,2021-02-25 10:29:35,913000.0,settlement,Mandiri - 1320505050519
+95,2865,yatnosutrisno,WEB,Zakat Penghasilan,2021-02-25 11:55:54,100000.0,settlement,BCA - 1393040002
+96,2867,Nadhila Taufiqa Amir,WEB,Zakat Penghasilan,2021-02-25 16:04:45,250000.0,settlement,Mandiri - 1010012312318
+97,2868,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-02-25 17:10:57,2000000.0,settlement,Mandiri - 1320006531140
+98,2870,Hayati,WEB,Zakat Penghasilan,2021-02-26 09:27:54,100000.0,settlement,BCA - 1393040002
+99,2878,Febya Achmad Rizky,WEB,Zakat Penghasilan,2021-02-26 13:26:55,300000.0,settlement,BCA - 1393004952
+100,2879,Veny Febriani,WEB,Zakat Penghasilan,2021-02-26 16:04:47,200000.0,settlement,Mandiri - 1320505050543
+101,2880,Imam subarkah,WEB,Zakat Penghasilan,2021-02-26 16:07:50,300000.0,settlement,Mandiri Syariah - 7273737377
+102,2887,sulivan fitriati,Web,Zakat Penghasilan,2021-02-27 14:41:11,372450.0,settlement,BRI
+103,2891,derby fioricy,WEB,Zakat Penghasilan,2021-02-27 17:37:23,325000.0,settlement,BCA - 1393040002
+104,2892,derby fioricy,WEB,Zakat Penghasilan,2021-02-27 17:39:57,365000.0,settlement,BCA - 1393040002
+105,2899,Yudiwah yudi,WEB,Zakat Penghasilan,2021-02-28 15:28:08,1000000.0,settlement,BCA - 1393040002
+106,2900,Azizah ekarini,WEB,Zakat Penghasilan,2021-02-28 15:44:28,200000.0,settlement,BCA - 1393040002
+107,2901,Yudha Eko Prayitno,WEB,Zakat Penghasilan,2021-02-28 15:48:28,550000.0,settlement,Mandiri - 1320020040060
+108,2689,Dirga Imam Gozali Sumantri,Web,Zakat Penghasilan,2021-01-01 13:03:30,6000000.0,settlement,echannel
+109,2690,Putu Berly Calvina Izumi,Web,Zakat Penghasilan,2021-01-04 00:55:12,100000.0,settlement,bank_transfer
+110,2691,Pak Saeful Rokhman,WEB,Zakat Penghasilan,2021-01-04 08:43:51,300000.0,settlement,BCA - 1393004952
+111,2692,Vinanda Langgeng Kencana,WEB,Zakat Penghasilan,2021-01-04 08:50:12,1000000.0,settlement,BCA - 1393040002
+112,2693,Novias,WEB,Zakat Penghasilan,2021-01-04 09:41:49,55000.0,settlement,BCA - 1393040002
+113,2694,Aang,WEB,Zakat Penghasilan,2021-01-04 09:44:22,117500.0,settlement,BCA - 1393004952
+114,2695,Rumah,WEB,Zakat Penghasilan,2021-01-04 09:52:58,3000000.0,settlement,Mandiri - 1320505050535
+115,2696,Ibu Nova,WEB,Zakat Penghasilan,2021-01-04 09:56:26,80000.0,settlement,BCA - 1393004952
+116,2697,Arka Parandita,WEB,Zakat Penghasilan,2021-01-04 10:03:40,200000.0,settlement,Mandiri - 1320505050519
+117,2698,Laras,Android,Zakat Penghasilan,2021-01-04 11:19:42,75000.0,settlement,gopay
+118,2699,Eli Laili Yanah,Web,Zakat Penghasilan,2021-01-04 15:09:43,200000.0,settlement,bank_transfer
+119,2700,salman,Web,Zakat Penghasilan,2021-01-04 22:40:31,2000000.0,settlement,echannel
+120,2703,Arif Fiyanto,WEB,Zakat Penghasilan,2021-01-05 14:31:37,500000.0,settlement,Mandiri - 1010012312318
+121,2705,Hamba Allah,Android,Zakat Penghasilan,2021-01-06 06:50:11,325000.0,settlement,bank_transfer
+122,2706,Eti Nirla Sari,WEB,Zakat Penghasilan,2021-01-06 09:26:33,300000.0,settlement,BCA - 1393040002
+123,2707,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-01-06 11:13:41,100000.0,settlement,echannel
+124,2708,Erni Pratiwi,WEB,Zakat Penghasilan,2021-01-06 16:47:58,700000.0,settlement,BCA - 1393040002
+125,2709,Ahfiz Hanifalhuda A,PWA,Zakat Penghasilan,2021-01-07 12:18:54,100232.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+126,2711,PT NARWASTU MEDIKA,WEB,Zakat Penghasilan,2021-01-07 13:16:44,2000000.0,settlement,BCA - 1393040002
+127,2712,Debbie marshela,WEB,Zakat Penghasilan,2021-01-07 13:18:01,50000.0,settlement,BCA - 1393040002
+128,2714,Uchi,PWA,Zakat Emas,2021-01-07 16:54:51,1000000.0,settlement,echannel
+129,2716,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-01-07 20:36:06,150000.0,settlement,echannel
+130,2717,Mesy Faridah Hendiyani,PWA,Zakat Penghasilan,2021-01-08 12:11:42,700000.0,settlement,bank_transfer
+131,2719,Muhammad Ghalib A,WEB,Zakat Penghasilan,2021-01-09 12:43:12,250000.0,settlement,Mandiri Syariah - 7273737377
+132,2720,Riskyana Wulandari dan Sumardani Kusmajaya,WEB,Zakat Penghasilan,2021-01-11 09:28:44,1200000.0,settlement,Mandiri - 1320505050519
+133,2721,Tari dan Husen,WEB,Zakat Penghasilan,2021-01-12 15:45:02,1000000.0,settlement,Mandiri - 1320505050519
+134,2735,Muhammad Zulfikar dan Nur Aini,WEB,Zakat Penghasilan,2021-01-15 09:26:46,250000.0,settlement,BCA - 1393040002
+135,2736,SAPRUDIN,WEB,Zakat Penghasilan,2021-01-15 13:56:08,300000.0,settlement,BCA - 1393040002
+136,2737,Ade Mimin Rohimin,WEB,Zakat Penghasilan,2021-01-15 14:33:16,55500.0,settlement,Muamalat - 4080300000
+137,2738,"Sudana & Astri Lestari,",WEB,Zakat Penghasilan,2021-01-16 15:57:41,500000.0,settlement,Mandiri - 1320020040060
+138,2740,hamba Allah,WEB,Zakat Penghasilan,2021-01-20 09:50:54,100000.0,settlement,BCA - 1393040002
+139,2741,Toni Setiana,WEB,Zakat Penghasilan,2021-01-21 09:18:02,250000.0,settlement,BCA - 1393040002
+140,2742,Dwinanda S bin Sulihno Hadi,WEB,Zakat Penghasilan,2021-01-22 09:02:57,150000.0,settlement,Mandiri - 1320505050519
+141,2743,Fadillah,WEB,Zakat Penghasilan,2021-01-22 09:04:25,150000.0,settlement,BRI - 013701000379303
+142,2744,Lyssa Aprilia,PWA,Zakat Penghasilan,2021-01-23 08:48:22,250000.0,settlement,bank_transfer
+143,2745,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-01-25 10:04:13,750000.0,settlement,bank_transfer
+144,2747,Dicko Ramadhan Alif,WEB,Zakat Penghasilan,2021-01-25 11:32:16,980000.0,settlement,Mandiri - 1320505050519
+145,2748,Nadhila Taufiqa Amir,WEB,Zakat Penghasilan,2021-01-25 11:34:30,250000.0,settlement,Mandiri - 1010012312318
+146,2749,Monica Yuliana,WEB,Zakat Harta,2021-01-26 08:19:21,100000.0,settlement,BCA - 1393004952
+147,2751,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-01-26 14:37:15,2000000.0,settlement,Mandiri - 1320006531140
+148,2753,Harun S,WEB,Zakat Penghasilan,2021-01-27 09:25:15,550000.0,settlement,BCA - 1393040002
+149,2754,Tika Hariyanti,WEB,Zakat Penghasilan,2021-01-27 09:38:29,235000.0,settlement,BCA - 1393004952
+150,2756,derby fioricy,WEB,Zakat Penghasilan,2021-01-28 09:14:11,250000.0,settlement,BCA - 1393040002
+151,2757,Muhammad Iqbal,Web,Zakat Harta,2021-01-28 21:47:05,5201250.0,settlement,bank_transfer
+152,2758,Hamba Allah,Android,Zakat Penghasilan,2021-01-29 07:00:25,250000.0,settlement,bank_transfer
+153,2759,Ade Mimin Rohimin,WEB,Zakat Penghasilan,2021-01-29 10:43:12,86500.0,settlement,Muamalat - 4080400000
+154,2760,Shelly Santoso,Android,Zakat Penghasilan,2021-01-29 12:57:59,235000.0,settlement,bank_transfer
+155,2761,Dini Fitriani,WEB,Zakat Penghasilan,2021-01-29 13:39:53,300000.0,settlement,Mandiri - 1320505050519
+156,2762,Ali Mulyana,Web,Zakat Penghasilan,2021-01-29 14:33:23,500663.0,settlement,Transfer Bank Mandiri - 1320505050519
+157,2765,Imam subarkah,WEB,Zakat Penghasilan,2021-01-30 13:17:34,300000.0,settlement,Mandiri Syariah - 7273737377
+158,2766,Tagor Lubis,WEB,Zakat Penghasilan,2021-01-30 13:30:14,300000.0,settlement,BCA - 1393040002
+159,2768,Amalia,WEB,Zakat Penghasilan,2021-01-31 09:10:36,200000.0,settlement,Muamalat - 4080400000
+160,2770,Robi Ade Putra,WEB,Zakat Penghasilan,2021-01-31 12:33:01,700000.0,settlement,Mandiri - 1320505050519
+161,2771,Diyah Tantri F,WEB,Zakat Penghasilan,2021-01-31 19:49:46,375000.0,settlement,Mandiri - 1320020040060
+162,3716,Eli Laili Yanah,Web,Zakat Penghasilan,2021-07-01 11:23:06,200000.0,settlement,bank_transfer
+163,3718,Shelly Santoso,Android,Zakat Penghasilan,2021-07-02 14:04:58,175000.0,settlement,bank_transfer
+164,3719,Aditya Christianto,Web Mobile,Zakat Fitrah,2021-07-02 20:37:16,50000.0,settlement,bank_transfer
+165,3721,muhammad,Web,Zakat Penghasilan,2021-07-04 14:53:31,10360000.0,settlement,credit_card
+166,3722,Thanti Sit Khodijah,Web,Zakat Penghasilan,2021-07-04 16:53:05,250000.0,settlement,bank_transfer
+167,3723,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-07-05 07:11:53,200000.0,settlement,MANDIRI
+168,3724,chentya endah,Android,Zakat Penghasilan,2021-07-06 14:09:17,175000.0,settlement,MANDIRI
+169,3727,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-07-23 11:51:15,360000.0,settlement,bank_transfer
+170,3729,Herlambang Rizqi Wahyu K,Android,Zakat Penghasilan,2021-07-26 14:16:39,125000.0,settlement,BNI
+171,3731,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-07-28 18:34:00,650000.0,settlement,BNI
+172,3732,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-07-28 18:37:43,800000.0,settlement,BNI
+173,3733,Hamba Allah,Android,Zakat Penghasilan,2021-07-29 06:46:58,250000.0,settlement,BRI
+174,3734,Heru Yulianto,Android,Zakat Penghasilan,2021-07-30 05:42:22,211000.0,settlement,bank_transfer
+175,3735,Sudarmawan,Web Mobile,Zakat Penghasilan,2021-07-31 11:42:13,150000.0,settlement,bank_transfer
+176,3688,Hamba Allah,Web Mobile,Zakat Penghasilan,2021-06-01 10:31:38,100000.0,settlement,bank_transfer
+177,3691,Eli Laili Yanah,Web,Zakat Penghasilan,2021-06-02 11:04:53,200000.0,settlement,bank_transfer
+178,3698,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-06-14 14:29:18,165000.0,settlement,MANDIRI
+179,3699,chentya endah,Android,Zakat Penghasilan,2021-06-17 20:11:47,175000.0,settlement,MANDIRI
+180,3700,dwi Purwandari,Web Mobile,Zakat Penghasilan,2021-06-18 01:37:29,200000.0,settlement,bank_transfer
+181,3704,Rizky Fadilah,Web,Zakat Penghasilan,2021-06-25 12:41:28,800000.0,settlement,bank_transfer
+182,3705,Herlambang Rizqi Wahyu K,Android,Zakat Penghasilan,2021-06-26 08:54:04,125000.0,settlement,BNI
+183,3706,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-06-27 15:44:48,250000.0,settlement,MANDIRI
+184,3711,salman,Web,Zakat Penghasilan,2021-06-29 13:18:59,2000000.0,settlement,MANDIRI
+185,3712,Hamba Allah,Android,Zakat Penghasilan,2021-06-29 16:57:32,250000.0,settlement,BRI
+186,3713,Didiet Arie Darmawan dan Indira Ayu Maharani,Web Mobile,Zakat Penghasilan,2021-06-30 06:57:41,145000.0,settlement,bank_transfer
+187,2936,ratu,Android,Zakat Penghasilan,2021-03-02 10:34:00,150000.0,settlement,PERMATA
+188,2937,Akbar,Android,Zakat Penghasilan,2021-03-03 10:06:14,147850.0,settlement,bank_transfer
+189,2938,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-03-03 16:15:32,100000.0,settlement,bank_transfer
+190,2943,Eli Laili Yanah,Web,Zakat Penghasilan,2021-03-05 10:45:20,200000.0,settlement,bank_transfer
+191,2980,Qusthan A. H. Firdaus,Web,Zakat Penghasilan,2021-03-09 21:11:27,110458.0,settlement,bank_transfer
+192,2984,Rusmawati Ruslan,PWA,Zakat Penghasilan,2021-03-20 06:23:33,5000000.0,settlement,echannel
+193,2985,Developer,Android,Zakat Penghasilan,2021-03-23 23:10:20,1.0,COMPLETED,OVO
+194,2986,Developer,Android,Zakat Penghasilan,2021-03-23 23:19:53,1.0,COMPLETED,OVO
+195,2988,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-03-25 14:58:52,350000.0,settlement,bank_transfer
+196,2989,Hamba Allah,Android,Zakat Penghasilan,2021-03-27 00:42:00,250000.0,COMPLETED,OVO
+197,2990,Rico,PWA,Zakat Penghasilan,2021-03-27 10:37:01,111200.0,settlement,bank_transfer
+198,2994,Sri anisa,PWA,Zakat Penghasilan,2021-03-31 09:56:53,200000.0,settlement,bank_transfer
+199,2995,Endar Yanti,Web,Zakat Penghasilan,2021-03-31 10:26:23,500000.0,settlement,gopay
+200,3066,ASTI RAMADHANI GADIS,Android,Zakat Penghasilan,2021-05-01 05:14:37,675000.0,settlement,MANDIRI
+201,3067,Arsakha Devandra Dzuhriansyah,Web Mobile,Zakat Fitrah,2021-05-01 16:35:13,50000.0,settlement,bank_transfer
+202,3068,Arsakha Devandra Dzuhriansyah,Web Mobile,Zakat Fitrah,2021-05-01 16:39:22,50000.0,settlement,bank_transfer
+203,3075,Shelly Santoso,Android,Zakat Penghasilan,2021-05-03 19:26:17,178000.0,settlement,bank_transfer
+204,3091,chentya endah,,Zakat Penghasilan,2021-05-05 18:27:31,700000.0,settlement,echannel
+205,3108,Aris munandar,Web Mobile,Zakat Penghasilan,2021-05-07 16:16:51,50000.0,settlement,MANDIRI
+206,3112,Arief Yulianto,Web Mobile,Zakat Penghasilan,2021-05-07 20:34:45,350000.0,settlement,MANDIRI
+207,3121,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-05-08 11:22:59,300000.0,settlement,MANDIRI
+208,3122,khoharuddin,Web,Zakat Harta,2021-05-08 12:31:26,1500371.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+209,3130,Shelly Santoso,Android,Zakat Penghasilan,2021-05-09 12:07:10,95000.0,settlement,bank_transfer
+210,3134,Frida ferdani putri,Web Mobile,Zakat Harta,2021-05-09 13:18:24,2500000.0,settlement,MANDIRI
+211,3141,Prasojo,Web Mobile,Zakat Fitrah,2021-05-09 18:32:13,75000.0,settlement,MANDIRI
+212,3143,Dita Astiani,Web Mobile,Zakat Fitrah,2021-05-09 18:46:14,100000.0,settlement,bank_transfer
+213,3146,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:52:12,50000.0,settlement,bank_transfer
+214,3147,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:55:53,50000.0,settlement,bank_transfer
+215,3148,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:58:59,50000.0,settlement,bank_transfer
+216,3149,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 19:07:13,50000.0,settlement,bank_transfer
+217,3151,Fakhrul Taufik,Web,Zakat Emas,2021-05-09 19:56:29,2000000.0,settlement,bank_transfer
+218,3193,nur chalimah,Web Mobile,Zakat Harta,2021-05-10 23:27:40,500168.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+219,3229,Mustika Retno Arsyanur,Web Mobile,Zakat Harta,2021-05-12 13:07:45,500000.0,settlement,BRI
+220,3366,sahib,Web,Zakat Fitrah,2021-05-12 21:09:19,1000000.0,settlement,bank_transfer
+221,3406,IMAM EFENDI,Web Mobile,Zakat Fitrah,2021-05-12 22:05:23,60000.0,settlement,gopay
+222,3534,Nurrul Ahmad Hidayat Wardiman,Web Mobile,Zakat Fitrah,2021-05-13 04:57:27,500091.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+223,3669,Dina Olivia,Web,Zakat Penghasilan,2021-05-24 13:54:35,393750.0,settlement,MANDIRI
+224,3674,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-05-26 12:49:41,350000.0,settlement,bank_transfer
+225,3675,muhammad,Web,Zakat Penghasilan,2021-05-26 19:15:40,10450000.0,settlement,credit_card
+226,3684,Kustia lyfia,Web Mobile,Zakat Penghasilan,2021-05-29 08:37:33,150000.0,settlement,bank_transfer
+227,3685,Hamba Allah,Android,Zakat Penghasilan,2021-05-29 09:06:08,250000.0,settlement,BRI
+228,3687,ASTI RAMADHANI GADIS,Android,Zakat Penghasilan,2021-05-30 19:46:45,675000.0,settlement,MANDIRI
+229,3915,Melinda D A,WEB,Zakat Harta,2021-11-01 08:07:58,1000000.0,settlement,Mandiri - 1320006531140
+230,3923,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-02 07:02:34,300000.0,settlement,BNI
+231,3924,Nursidik Cahyono,WEB,Zakat Penghasilan,2021-11-02 08:12:52,350000.0,settlement,Mandiri - 1320006531140
+232,3934,Akbar,Android,Zakat Penghasilan,2021-11-02 10:03:26,150000.0,settlement,bank_transfer
+233,3938,Debby MSD,WEB,Zakat Penghasilan,2021-11-03 08:28:53,400000.0,settlement,BCA - 1393040002
+234,3939,Mala,WEB,Zakat Penghasilan,2021-11-03 12:57:25,250000.0,settlement,Mandiri - 1320020040060
+235,3940,Rahmawati Maulidya,CFD v2,Zakat Penghasilan,2021-11-04 09:20:54,50000.0,settlement,bank_transfer
+236,3941,Sudarmawan,CFD v2,Zakat Penghasilan,2021-11-05 00:20:37,150000.0,settlement,bank_transfer
+237,3942,Twpool,CFD v2,Zakat Penghasilan,2021-11-05 04:16:04,200000.0,settlement,bank_transfer
+238,3951,Yanie - Pondok Mantau,WEB,Zakat Harta,2021-11-05 10:39:18,300000.0,settlement,Mandiri - 1490010260646
+239,3954,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-05 16:28:21,115000.0,settlement,MANDIRI
+240,3956,Ahmad Fakhri,WEB,Zakat Penghasilan,2021-11-06 08:53:02,400000.0,settlement,Mandiri - 1320020040060
+241,3957,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-06 13:17:51,225000.0,settlement,MANDIRI
+242,3958,Budi Muktinarko,WEB,Zakat Harta,2021-11-07 11:08:08,200000.0,settlement,Mandiri - 1320006531140
+243,3959,Heru Yulianto,Android,Zakat Penghasilan,2021-11-08 15:28:33,222000.0,settlement,bank_transfer
+244,3960,Bima Said,CFD v2,Zakat Penghasilan,2021-11-09 20:46:01,645462.0,settlement,MANDIRI
+245,3962,tasnia,WEB,Zakat Penghasilan,2021-11-10 11:14:08,500000.0,settlement,BCA - 1393004952
+246,3965,Twpool,CFD v2,Zakat Penghasilan,2021-11-10 23:23:26,300000.0,settlement,bank_transfer
+247,3966,Nining,WEB,Zakat Harta,2021-11-11 08:12:39,500000.0,settlement,Mandiri Syariah - 7277777775
+248,3967,Himawan,WEB,Zakat Penghasilan,2021-11-11 13:52:05,156275.0,settlement,Mandiri - 1320020040060
+249,3968,Dias Darmawan,WEB,Zakat Harta,2021-11-12 10:55:46,200000.0,settlement,Mandiri - 1320006531140
+250,3969,Nike Pudjiwati,WEB,Zakat Harta,2021-11-12 12:37:23,100000.0,settlement,BCA - 1393040002
+251,3970,muhammad,CFD v2,Zakat Penghasilan,2021-11-14 14:52:43,10370000.0,settlement,CREDITCARD
+252,3973,Zulfadli Zizar,Web Mobile,Zakat Penghasilan,2021-11-16 06:22:04,300149.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+253,3975,Twpool,CFD v2,Zakat Penghasilan,2021-11-18 00:04:44,250000.0,settlement,bank_transfer
+254,3977,Yudi Rizki Kurniawan,WEB,Zakat Harta,2021-11-18 16:39:41,250000.0,settlement,BCA - 1393040002
+255,3978,Diliana,WEB,Zakat Penghasilan,2021-11-19 08:08:57,500000.0,settlement,Mandiri - 1320505050519
+256,3979,Shakti Agustono Rahardjo,WEB,Zakat Harta,2021-11-19 08:37:28,500000.0,settlement,Mandiri Syariah - 7277777775
+257,3980,Surti Wigati,WEB,Zakat Harta,2021-11-19 13:26:34,1500000.0,settlement,BCA - 1393000001
+258,3982,Fadillah,WEB,Zakat Penghasilan,2021-11-22 16:44:57,150000.0,settlement,BRI - 013701000379303
+259,3984,Vera Junita,CFD v2,Zakat Penghasilan,2021-11-24 16:19:43,380275.0,settlement,Transfer Bank Mandiri Syariah - 7273737377
+260,3989,chentya endah,Android,Zakat Penghasilan,2021-11-25 13:28:27,175000.0,settlement,MANDIRI
+261,3991,Farah Saladini,WEB,Zakat Harta,2021-11-26 08:38:42,250000.0,settlement,Mandiri - 1320006531140
+262,3992,Shakti Agustono Rahardjo,WEB,Zakat Harta,2021-11-26 08:45:27,500000.0,settlement,Mandiri Syariah - 7277777775
+263,3995,Irsyad Berry,WEB,Zakat Penghasilan,2021-11-26 11:51:20,750000.0,settlement,BCA - 1393040002
+264,3997,Azizah Ekarini,WEB,Zakat Penghasilan,2021-11-26 14:22:27,200000.0,settlement,BCA - 1393040002
+265,3998,syarif,Android,Zakat Penghasilan,2021-11-26 14:29:53,180000.0,settlement,BNI
+266,4005,Debby MSD,WEB,Zakat Penghasilan,2021-11-27 15:03:37,350000.0,settlement,BCA - 1393040002
+267,4006,Wijayanto,WEB,Zakat Penghasilan,2021-11-27 15:45:21,350000.0,settlement,Mandiri - 1320505050519
+268,4010,Resta Agung Susilo,CFD v2,Zakat Penghasilan,2021-11-29 07:20:23,400000.0,settlement,bank_transfer
+269,4012,Tagor Lubis,WEB,Zakat Penghasilan,2021-11-29 11:44:10,300000.0,settlement,BCA - 1393040002
+270,4013,Dini Fitriani,WEB,Zakat Penghasilan,2021-11-29 13:40:57,300000.0,settlement,Mandiri - 1320505050519
+271,3825,Decichi BR,Web Mobile,Zakat Penghasilan,2021-10-01 11:23:22,161350.0,settlement,BNI
+272,3826,Eli Laili Yanah,Web,Zakat Penghasilan,2021-10-01 16:03:01,200000.0,settlement,bank_transfer
+273,3827,Hamba Allah,WEB,Zakat Penghasilan,2021-10-02 16:09:23,300000.0,settlement,Mandiri - 1280006235151
+274,3829,zulfahmi sstv,WEB,Zakat Harta,2021-10-04 09:17:46,500000.0,settlement,BCA - 1393004952
+275,3830,yenny,WEB,Zakat Penghasilan,2021-10-05 14:45:00,300000.0,settlement,BCA - 1393004952
+276,3831,Melinda D A,WEB,Zakat Harta,2021-10-05 16:35:08,1000000.0,settlement,Mandiri - 1320006531140
+277,3832,Nur Eko Priyo,Web,Zakat Penghasilan,2021-10-06 05:55:25,300000.0,settlement,MANDIRI
+278,3834,Umy Handayani,WEB,Zakat Penghasilan,2021-10-07 08:33:11,600000.0,settlement,Mandiri Syariah - 7277777775
+279,3837,Debby MSD,WEB,Zakat Penghasilan,2021-10-08 08:31:33,300000.0,settlement,BCA - 1393040002
+280,3838,Ima Gusnandar,WEB,Zakat Harta,2021-10-09 08:05:29,400000.0,settlement,Mandiri - 1320006531140
+281,3839,chentya endah,Android,Zakat Penghasilan,2021-10-10 19:53:09,300000.0,settlement,MANDIRI
+282,3840,Heriyadi,WEB,Zakat Penghasilan,2021-10-11 16:51:27,150000.0,settlement,BCA - 1393040002
+283,3844,Nanin,WEB,Zakat Harta,2021-10-14 13:38:10,250000.0,settlement,BCA - 1393040002
+284,3845,Rini Anggoro,WEB,Zakat Harta,2021-10-15 08:18:14,500000.0,settlement,BCA - 1393004952
+285,3846,Candrawati (Mama Renjiro),WEB,Zakat Harta,2021-10-15 08:25:06,300000.0,settlement,Mandiri - 1320020040060
+286,3847,Panca,WEB,Zakat Harta,2021-10-15 08:39:10,400000.0,settlement,BCA - 1393004952
+287,3848,Yuyun wahyuni,WEB,Zakat Penghasilan,2021-10-16 14:49:01,10127000.0,settlement,BNI - 152010118
+288,3850,Aditia Pramadiaksa,WEB,Zakat Penghasilan,2021-10-18 08:16:59,250000.0,settlement,BCA - 1393004952
+289,3851,rahmanto b,WEB,Zakat Harta,2021-10-19 09:28:36,1350000.0,settlement,Mandiri - 1320006531140
+290,3852,Ricky K. Margono,WEB,Zakat Harta,2021-10-19 13:11:35,500000.0,settlement,BCA - 1393004952
+291,3853,Himawan,WEB,Zakat Penghasilan,2021-10-19 13:45:09,10000.0,settlement,Mandiri - 1320020040060
+292,3854,Himawan,WEB,Zakat Penghasilan,2021-10-19 13:48:32,30000.0,settlement,Mandiri - 1320020040060
+293,3861,Adil Permata Sidik,CFD v2,Zakat Penghasilan,2021-10-19 15:56:17,1000.0,settlement,MANDIRI
+294,3863,Adil Permata Sidik,CFD v2,Zakat Penghasilan,2021-10-19 16:25:35,1000.0,settlement,gopay
+295,3880,Fadillah,WEB,Zakat Penghasilan,2021-10-22 08:15:41,150000.0,settlement,BRI - 013701000379303
+296,3881,Yanie - Pondok Mantau,WEB,Zakat Harta,2021-10-22 14:46:26,500000.0,settlement,Mandiri - 1490010260646
+297,3884,Bima Said,Web,Zakat Penghasilan,2021-10-24 13:48:43,1001450.0,settlement,MANDIRI
+298,3887,derby fioricy,WEB,Zakat Penghasilan,2021-10-25 08:48:02,550000.0,settlement,BCA - 1393040002
+299,3888,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-10-25 12:14:31,260000.0,settlement,bank_transfer
+300,3889,Libonit Poetry Mayangsari,WEB,Zakat Penghasilan,2021-10-25 15:43:31,260000.0,settlement,BCA - 1393040002
+301,3891,Ardita Widyasari,WEB,Zakat Penghasilan,2021-10-26 13:16:17,170000.0,settlement,BCA - 1393040002
+302,3895,Dini Fitriani,WEB,Zakat Penghasilan,2021-10-27 13:02:16,300000.0,settlement,Mandiri - 1320505050519
+303,3898,Wijayanto,WEB,Zakat Penghasilan,2021-10-27 16:54:40,350000.0,settlement,Mandiri - 1320006531140
+304,3900,Akbar,Android,Zakat Penghasilan,2021-10-27 17:01:24,47000.0,settlement,BRI
+305,3901,didi,WEB,Zakat Penghasilan,2021-10-28 08:25:48,300000.0,settlement,BCA - 1393040002
+306,3905,yenny,WEB,Zakat Penghasilan,2021-10-28 16:32:39,300000.0,settlement,BCA - 1393004952
+307,3909,Azizah Ekarini,WEB,Zakat Penghasilan,2021-10-29 10:05:22,200000.0,settlement,BCA - 1393040002
+308,3910,Ariyan Agung,WEB,Zakat Penghasilan,2021-10-29 14:05:11,400000.0,settlement,BCA - 1393040002
+309,3914,Sudana,WEB,Zakat Penghasilan,2021-10-31 14:43:42,1000000.0,settlement,BCA - 1393040002
+310,3785,Melinda D A,WEB,Zakat Penghasilan,2021-09-01 08:30:09,1000000.0,settlement,Mandiri - 1320006531140
+311,3786,Eli Laili Yanah,Web,Zakat Penghasilan,2021-09-01 12:49:19,200000.0,settlement,bank_transfer
+312,3787,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-09-02 16:50:35,250000.0,settlement,BRI
+313,3788,Azizah Ekarini,WEB,Zakat Penghasilan,2021-09-03 11:48:04,200000.0,settlement,BCA - 1393040002
+314,3789,Nining,WEB,Zakat Harta,2021-09-03 13:42:50,500000.0,settlement,Mandiri Syariah - 7277777775
+315,3790,Candrawati (Mama Renjiro),WEB,Zakat Harta,2021-09-03 16:44:49,300000.0,settlement,Mandiri - 1320020040060
+316,3792,Rifqi Amirullah,Web Mobile,Zakat Penghasilan,2021-09-05 00:48:36,200000.0,settlement,BNI
+317,3793,Ratih supriatin apriliani,WEB,Zakat Penghasilan,2021-09-05 08:46:27,1254773.0,settlement,Mandiri - 1320020040060
+318,3794,hamba Allah,WEB,Zakat Penghasilan,2021-09-07 12:56:17,692500.0,settlement,BCA - 1393040002
+319,3796,Rizky Rosalia,WEB,Zakat Penghasilan,2021-09-10 13:57:48,300000.0,settlement,Mandiri - 1320020040060
+320,3798,Zalfaputri,WEB,Zakat Harta,2021-09-11 10:33:34,200000.0,settlement,BCA - 1393040002
+321,3801,M. Jalaluddin Fuad,WEB,Zakat Harta,2021-09-13 08:37:40,500000.0,settlement,Mandiri - 1320020040060
+322,3802,Nur Eko Priyo,Web,Zakat Penghasilan,2021-09-17 05:44:14,150000.0,settlement,MANDIRI
+323,3803,Fadillah,WEB,Zakat Penghasilan,2021-09-22 08:25:42,150000.0,settlement,BRI - 013701000379303
+324,3804,Dewi Suryani,Android,Zakat Penghasilan,2021-09-24 06:45:27,100000.0,settlement,MANDIRI
+325,3805,Noer cahya indarti,WEB,Zakat Harta,2021-09-24 08:22:32,300000.0,settlement,BCA - 1393004952
+326,3806,Tami Fioricy,WEB,Zakat Penghasilan,2021-09-24 08:52:04,360000.0,settlement,BCA - 1393040002
+327,3808,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-09-24 13:49:44,1500000.0,settlement,Mandiri - 1320006531140
+328,3809,Nur Eko Priyo,Web,Zakat Penghasilan,2021-09-24 14:34:35,300000.0,settlement,MANDIRI
+329,3810,Tedy,WEB,Zakat Harta,2021-09-24 14:36:30,150000.0,settlement,BCA - 1393040002
+330,3811,Dini Fitriani,WEB,Zakat Penghasilan,2021-09-26 08:32:09,250000.0,settlement,Mandiri - 1320505050519
+331,3812,hamba Allah,WEB,Zakat Harta,2021-09-27 10:34:27,105000.0,settlement,BCA - 1393040002
+332,3819,Anisa Septiana,Web Mobile,Zakat Penghasilan,2021-09-27 19:56:14,132500.0,settlement,MANDIRI
+333,3820,Tami Fioricy,WEB,Zakat Fitrah,2021-09-28 08:18:21,403000.0,settlement,BCA - 1393040002
+334,3822,Agisha Riyani Nurhalimah,Web Mobile,Zakat Penghasilan,2021-09-29 07:55:43,145000.0,settlement,bank_transfer
+335,3823,Vera,Web,Zakat Penghasilan,2021-09-29 18:35:02,110000.0,settlement,BNI
+336,3824,kukuh pujo harseno,WEB,Zakat Harta,2021-09-30 08:48:09,400000.0,settlement,BCA - 1393004952
